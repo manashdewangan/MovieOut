@@ -22,7 +22,7 @@ export function Navbar() {
         {/* Logo */}
         <div className="flex lg:flex-1">
           <Link to="/" className="text-3xl text-white font-bold">
-            Movie<span className="text-red-600">Out</span>
+            Movie<span className="text-red-600">Ot</span>
           </Link>
         </div>
 
